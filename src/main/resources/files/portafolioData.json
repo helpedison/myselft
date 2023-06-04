@@ -1,0 +1,37 @@
+{
+  "main": {
+    "name":"Edison Vargas",
+    "occupation":"Java Developer | Mule Developer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Proven expertise  as Backend Developer in implementing new features or new projects in technologies based on Mulesoft large companies from different fields, using traditional and  agile methodologies, always considering restrictions on time, cost, quality. Good experience as a Developer with advanced skills in programming, clean code, codemaintainability, cyclomaticn complexity, line of code, execution governors and limits,etc. Using the best practices. ",
+    "email": "helpedison@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"Any where",
+      "city":"Colombia"
+    },
+    "website": "https://github.com/helpedison",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/edigramer",
+        "className":"fa fa-twitter"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/edison-vargas-m-881861b4",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/helpedison",
+        "className":"fa fa-github"
+      }
+
+    ]
+  }
+}
