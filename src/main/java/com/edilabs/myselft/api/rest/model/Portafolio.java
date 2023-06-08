@@ -1,15 +1,18 @@
 package com.edilabs.myselft.api.rest.model;
 
-
 import lombok.*;
+
+import java.util.List;
+
 
 @Setter
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class Data {
-    private Main main;
-    private Portafolio portafolio;
-    private Resume resume;
+public class Portafolio {
+
+    private List<Project> projects;
+
+
 }

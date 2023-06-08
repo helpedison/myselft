@@ -23,4 +23,5 @@ public class Main {
     private String resumedownload;
     private List<Social> social;
 
+
 }

@@ -1,6 +1,5 @@
 package com.edilabs.myselft.api.rest.model;
 
-
 import lombok.*;
 
 @Setter
@@ -8,8 +7,9 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class Data {
-    private Main main;
-    private Portafolio portafolio;
-    private Resume resume;
+public class Education {
+    private String school;
+    private String degree ;
+    private String graduated;
+
 }
