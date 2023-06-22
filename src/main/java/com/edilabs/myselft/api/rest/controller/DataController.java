@@ -24,6 +24,7 @@ public class DataController {
        return dataService.jsonReader();
     }
 
+    @CrossOrigin("https://landing-page-5btkai3d6a-uk.a.run.app")
     @GetMapping("/data")
     public Data getDatePortafolioMyself(){
         return dataService.jsonReaderPortafolioData();
