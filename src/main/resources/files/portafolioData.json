@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Edison Vargas",
-    "occupation":"Java Developer | Mule Developer",
+    "occupation":"Software engineer",
     "description":"",
     "image":"profilepic.jpg",
     "bio":"With proven expertise as a Backend Developer, I have successfully implemented new features and projects using MuleSoft technologies for large organizations across various sectors. Whether employing traditional or agile methodologies, I consistently deliver quality work while effectively managing time and cost constraints.\n\nMy experience as a developer has equipped me with advanced programming skills, a keen eye for clean code, and a strong understanding of code maintainability. I have in-depth knowledge of software metrics, such as cyclomatic complexity and lines of code, and am adept at handling execution governors and limits. My work consistently reflects the best practices in the field, ensuring high-quality outcomes.",
@@ -77,7 +77,7 @@
 
       {
         "name":"Pogramming Languages Java, Js, Dataweave ",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Libraries, Frameworks -Jquery, Mockito, JSF, Junit, Munit",
